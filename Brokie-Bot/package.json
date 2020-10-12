@@ -1,0 +1,14 @@
+{
+  "name": "kedom",
+  "version": "1.0.0",
+  "description": "KEDOM a superb BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MICROHAWK",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
