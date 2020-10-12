@@ -1,7 +1,7 @@
 {
-  "name": "kedom",
+  "name": "brokie",
   "version": "1.0.0",
-  "description": "KEDOM a superb BOT",
+  "description": "Brokie a super BOT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
